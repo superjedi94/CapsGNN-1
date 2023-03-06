@@ -11,11 +11,13 @@ from config import settings,get_net_structure
 from capsules_utils.GraphCap_net import CapsGNN_nets
 
 def main():
-    tf.logging.set_verbosity(tf.logging.INFO)
+    # tf.logging.set_verbosity(tf.logging.INFO)
+    tf.compat.v1.logging.set_verbosity(tf.compat.v1.logging.INFO)
 
     FLAGS = settings()
     np.random.seed(FLAGS.seed)
-    tf.set_random_seed(FLAGS.seed)
+    # tf.set_random_seed(FLAGS.seed)
+    tf.random.set_seed(FLAGS.seed)
     extn = '.gexf'
     class_labels_fname = FLAGS.dataset_dir + '.Labels'
 
@@ -64,7 +66,7 @@ def main():
 
     error_write_out = ''
 
-    tf_config = tf.ConfigProto(allow_soft_placement=True)
+    tf_config = tf.compat.v1.ConfigProto(allow_soft_placement=True)
     # tf_config.gpu_options.allow_growth = True
     with open(train_test_split_file,'rb') as f:
         train_test_split_groups = pickle.load(f)
@@ -73,9 +75,9 @@ def main():
         gd.graphs_dataset_valid = groups_dict['val']
         gd.graphs_dataset_test = groups_dict['test']
         print("Dataset: train: {}, valid: {}, test: {}".format(len(gd.graphs_dataset_train),len(gd.graphs_dataset_valid),len(gd.graphs_dataset_test)))
-        with tf.Session(graph=GraphNet.graph,config=tf_config) as sess:
+        with tf.compat.v1.Session(graph=GraphNet.graph,config=tf_config) as sess:
 
-            init = tf.global_variables_initializer()
+            init = tf.compat.v1.global_variables_initializer()
             sess.run(init)
             # sess = tf_debug.LocalCLIDebugWrapperSession(sess)
 
@@ -116,11 +118,11 @@ def main():
                             average_loss = loss / step
                             average_loss_margin = loss_margin / step
                             average_loss_regular = loss_regular / step
-                            tf.logging.info('Epoch : %d : Batch size: %d Average loss for step: %d : %f' % (i, len(label), step, average_loss))
-                            tf.logging.info('   Margin loss : %f Regular loss: %f' % (average_loss_margin,average_loss_regular))
+                            tf.compat.v1.logging.info('Epoch : %d : Batch size: %d Average loss for step: %d : %f' % (i, len(label), step, average_loss))
+                            tf.compat.v1.logging.info('   Margin loss : %f Regular loss: %f' % (average_loss_margin,average_loss_regular))
 
                 epoch_time = time() - t0
-                tf.logging.info('######################### TRAIN\tEpoch: %d : loss : %f, error : %f, time : %.2f sec.  #####################' % (i, loss_margin / step,error/(1.0*processed_graph_num), epoch_time))
+                tf.compat.v1.logging.info('######################### TRAIN\tEpoch: %d : loss : %f, error : %f, time : %.2f sec.  #####################' % (i, loss_margin / step,error/(1.0*processed_graph_num), epoch_time))
                 loss_error_record.extend([' train : ', str(loss_margin / step), str(error / (1.0 * processed_graph_num)), '\n'])
 
                 if i % 1 == 0:
@@ -145,7 +147,7 @@ def main():
                             feed_dict=feed_dict)
                         loss += loss_val; error += error_val; step += 1; test_step += 1
                     test_time = time()-t0
-                    tf.logging.info('#########################  TEST\tEpoch: %d : loss : %f, error : %f, time : %.2f sec.  #####################' % (i, loss / step ,error/(1.0*len(gd.graphs_dataset_test)), test_time))
+                    tf.compat.v1.logging.info('#########################  TEST\tEpoch: %d : loss : %f, error : %f, time : %.2f sec.  #####################' % (i, loss / step ,error/(1.0*len(gd.graphs_dataset_test)), test_time))
                     loss_error_record.extend(['test : ', str(loss / step), str(error / (1.0 * len(gd.graphs_dataset_test))), '\n'])
                 if i % 1 == 0:
                     valid_step = train_step
@@ -169,7 +171,7 @@ def main():
                             feed_dict=feed_dict)
                         loss += loss_val; error += error_val; step += 1; valid_step += 1
                     valid_time = time()-t0
-                    tf.logging.info('######################### Valid\tEpoch: %d : loss : %f, error : %f, time : %.2f sec.  #####################' % (i, loss / step ,error/(1.0*len(gd.graphs_dataset_valid)), valid_time))
+                    tf.compat.v1.logging.info('######################### Valid\tEpoch: %d : loss : %f, error : %f, time : %.2f sec.  #####################' % (i, loss / step ,error/(1.0*len(gd.graphs_dataset_valid)), valid_time))
                     loss_error_record.extend(['valid : ', str(loss / step), str(error / (1.0 * len(gd.graphs_dataset_valid))), '\n','__________', '\n'])
                 error_write_out += ' '.join(loss_error_record)
 

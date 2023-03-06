@@ -28,24 +28,31 @@ class CapsGNN_nets(object):
         graph = tf.Graph()
         with graph.as_default():
             with tf.device('/cpu:0'):
-                batch_adj_mats = tf.placeholder(tf.float32, shape=([None, None, None]))
-                batch_labels = tf.placeholder(tf.int64, shape=([None, ]))
-                if_train = tf.placeholder(tf.bool, shape=())
+                # batch_adj_mats = tf.placeholder(tf.float32, shape=([None, None, None]))
+                # batch_labels = tf.placeholder(tf.int64, shape=([None, ]))
+                # if_train = tf.placeholder(tf.bool, shape=())
+                batch_adj_mats = tf.compat.v1.placeholder(tf.float32, shape=([None, None, None]))
+                batch_labels = tf.compat.v1.placeholder(tf.int64, shape=([None, ]))
+                if_train = tf.compat.v1.placeholder(tf.bool, shape=())
 
-                node_indicator = tf.reduce_max(batch_adj_mats, axis=-1, keep_dims=True)  # (?, N, 1)
+                # node_indicator = tf.reduce_max(batch_adj_mats, axis=-1, keep_dims=True)  # (?, N, 1)
+                node_indicator = tf.math.reduce_max(batch_adj_mats, axis=-1, keepdims=True)  # (?, N, 1)
 
                 node_input = []
                 node_basic_embeddings = []
                 node_basic_embeddings_selected = []
 
                 for list_idx, attri_list in enumerate(self.node_attris):
-                    node_input.append(tf.placeholder(tf.int32, shape=([None, None]), name='node_input_' + str(list_idx)))
-                    node_basic_embeddings.append(tf.Variable(tf.random_normal(shape=[attri_list, self.node_embedding_size],mean=0.0, stddev=0.1),name='node_emb_' + str(list_idx)))
+                    # node_input.append(tf.placeholder(tf.int32, shape=([None, None]), name='node_input_' + str(list_idx)))
+                    node_input.append(tf.compat.v1.placeholder(tf.int32, shape=([None, None]), name='node_input_' + str(list_idx)))
+                    # node_basic_embeddings.append(tf.Variable(tf.random_normal(shape=[attri_list, self.node_embedding_size],mean=0.0, stddev=0.1),name='node_emb_' + str(list_idx)))
+                    node_basic_embeddings.append(tf.Variable(tf.random.normal(shape=[attri_list, self.node_embedding_size],mean=0.0, stddev=0.1),name='node_emb_' + str(list_idx)))
                     node_basic_embeddings_selected.append(tf.nn.embedding_lookup(node_basic_embeddings[list_idx], node_input[list_idx]) * node_indicator)
 
                 node_basic_embeddings_selected = tf.stack(node_basic_embeddings_selected, axis=2)  # (?, N, C, d)
                 node_basic_embeddings_selected = drop_channel(node_basic_embeddings_selected, dropout_rate=self.noise, name='drop_channel', if_train=if_train)
-                reconstruct_value = tf.placeholder(tf.float32, shape=([None, self.reconstruct_num]))
+                # reconstruct_value = tf.placeholder(tf.float32, shape=([None, self.reconstruct_num]))
+                reconstruct_value = tf.compat.v1.placeholder(tf.float32, shape=([None, self.reconstruct_num]))
                 batch_trans_mats = adj_mats_normalize(batch_adj_mats,node_indicator)
 
                 self.node_inputs = node_input
@@ -141,21 +148,21 @@ class CapsGNN_nets(object):
                 self.not_equal = not_equal
 
                 global_step = tf.Variable(0, trainable=False)
-                learning_rate = tf.train.exponential_decay(self.learning_rate,
+                learning_rate = tf.compat.v1.train.exponential_decay(self.learning_rate,
                                                            global_step,self.decay_step, 0.9,
                                                            staircase=True)  # linear decay over time
-                optimizer = tf.train.AdamOptimizer(learning_rate)
+                optimizer = tf.compat.v1.train.AdamOptimizer(learning_rate)
                 self.optimizer = optimizer.minimize(loss, global_step=global_step)
                 self.learning_step = learning_rate
 
                 total_parameters = 0
-                for variable in tf.trainable_variables():
+                for variable in tf.compat.v1.trainable_variables():
                     # shape is an array of tf.Dimension
                     shape = variable.get_shape()
                     print("{}   :   {}".format(variable.name, shape))
                     variable_parameters = 1
                     for dim in shape:
-                        variable_parameters *= dim.value
+                        variable_parameters *= dim
                     total_parameters += variable_parameters
                 print(total_parameters)
 
