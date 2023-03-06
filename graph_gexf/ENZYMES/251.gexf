@@ -1,0 +1,236 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="7842" label="7842">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7826" label="7826">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7836" label="7836">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7827" label="7827">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7839" label="7839">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7837" label="7837">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7848" label="7848">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7846" label="7846">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7840" label="7840">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7821" label="7821">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7851" label="7851">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7835" label="7835">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7833" label="7833">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7829" label="7829">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7823" label="7823">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7830" label="7830">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7834" label="7834">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7832" label="7832">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7824" label="7824">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7831" label="7831">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7838" label="7838">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7841" label="7841">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7845" label="7845">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7825" label="7825">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7849" label="7849">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7822" label="7822">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7844" label="7844">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7852" label="7852">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7828" label="7828">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7847" label="7847">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7843" label="7843">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7850" label="7850">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="7842" target="7821" />
+      <edge id="1" source="7842" target="7839" />
+      <edge id="2" source="7842" target="7840" />
+      <edge id="3" source="7826" target="7825" />
+      <edge id="4" source="7826" target="7827" />
+      <edge id="5" source="7826" target="7824" />
+      <edge id="6" source="7836" target="7834" />
+      <edge id="7" source="7836" target="7838" />
+      <edge id="8" source="7836" target="7837" />
+      <edge id="9" source="7836" target="7835" />
+      <edge id="10" source="7827" target="7829" />
+      <edge id="11" source="7827" target="7828" />
+      <edge id="12" source="7827" target="7825" />
+      <edge id="13" source="7839" target="7821" />
+      <edge id="14" source="7839" target="7840" />
+      <edge id="15" source="7837" target="7838" />
+      <edge id="16" source="7837" target="7835" />
+      <edge id="17" source="7848" target="7847" />
+      <edge id="18" source="7848" target="7846" />
+      <edge id="19" source="7848" target="7850" />
+      <edge id="20" source="7848" target="7849" />
+      <edge id="21" source="7846" target="7844" />
+      <edge id="22" source="7846" target="7847" />
+      <edge id="23" source="7846" target="7843" />
+      <edge id="24" source="7846" target="7845" />
+      <edge id="25" source="7840" target="7822" />
+      <edge id="26" source="7840" target="7841" />
+      <edge id="27" source="7840" target="7823" />
+      <edge id="28" source="7821" target="7822" />
+      <edge id="29" source="7851" target="7852" />
+      <edge id="30" source="7851" target="7850" />
+      <edge id="31" source="7851" target="7849" />
+      <edge id="32" source="7835" target="7838" />
+      <edge id="33" source="7835" target="7834" />
+      <edge id="34" source="7835" target="7833" />
+      <edge id="35" source="7833" target="7831" />
+      <edge id="36" source="7833" target="7830" />
+      <edge id="37" source="7833" target="7834" />
+      <edge id="38" source="7833" target="7832" />
+      <edge id="39" source="7829" target="7831" />
+      <edge id="40" source="7829" target="7830" />
+      <edge id="41" source="7829" target="7828" />
+      <edge id="42" source="7823" target="7822" />
+      <edge id="43" source="7823" target="7841" />
+      <edge id="44" source="7823" target="7824" />
+      <edge id="45" source="7830" target="7831" />
+      <edge id="46" source="7830" target="7832" />
+      <edge id="47" source="7830" target="7828" />
+      <edge id="48" source="7832" target="7831" />
+      <edge id="49" source="7824" target="7822" />
+      <edge id="50" source="7824" target="7825" />
+      <edge id="51" source="7841" target="7822" />
+      <edge id="52" source="7841" target="7843" />
+      <edge id="53" source="7845" target="7844" />
+      <edge id="54" source="7845" target="7847" />
+      <edge id="55" source="7845" target="7843" />
+      <edge id="56" source="7849" target="7852" />
+      <edge id="57" source="7849" target="7850" />
+      <edge id="58" source="7844" target="7843" />
+      <edge id="59" source="7852" target="7850" />
+    </edges>
+  </graph>
+</gexf>

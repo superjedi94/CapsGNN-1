@@ -1,0 +1,268 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="18096" label="18096">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18116" label="18116">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18101" label="18101">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18125" label="18125">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18113" label="18113">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18111" label="18111">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18110" label="18110">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18093" label="18093">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18107" label="18107">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18126" label="18126">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18129" label="18129">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18119" label="18119">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18100" label="18100">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18102" label="18102">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18117" label="18117">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18105" label="18105">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18122" label="18122">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18099" label="18099">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18106" label="18106">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18109" label="18109">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18127" label="18127">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18098" label="18098">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18097" label="18097">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18103" label="18103">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18128" label="18128">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18094" label="18094">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18120" label="18120">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18121" label="18121">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18123" label="18123">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18108" label="18108">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18095" label="18095">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="18124" label="18124">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18104" label="18104">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18114" label="18114">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18115" label="18115">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18112" label="18112">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="18118" label="18118">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="18096" target="18115" />
+      <edge id="1" source="18096" target="18111" />
+      <edge id="2" source="18096" target="18128" />
+      <edge id="3" source="18096" target="18097" />
+      <edge id="4" source="18116" target="18103" />
+      <edge id="5" source="18116" target="18109" />
+      <edge id="6" source="18116" target="18129" />
+      <edge id="7" source="18116" target="18098" />
+      <edge id="8" source="18116" target="18122" />
+      <edge id="9" source="18101" target="18115" />
+      <edge id="10" source="18101" target="18111" />
+      <edge id="11" source="18101" target="18128" />
+      <edge id="12" source="18101" target="18124" />
+      <edge id="13" source="18125" target="18113" />
+      <edge id="14" source="18125" target="18117" />
+      <edge id="15" source="18125" target="18104" />
+      <edge id="16" source="18125" target="18126" />
+      <edge id="17" source="18113" target="18105" />
+      <edge id="18" source="18113" target="18112" />
+      <edge id="19" source="18111" target="18097" />
+      <edge id="20" source="18111" target="18102" />
+      <edge id="21" source="18111" target="18110" />
+      <edge id="22" source="18111" target="18124" />
+      <edge id="23" source="18110" target="18102" />
+      <edge id="24" source="18110" target="18109" />
+      <edge id="25" source="18110" target="18124" />
+      <edge id="26" source="18110" target="18097" />
+      <edge id="27" source="18093" target="18095" />
+      <edge id="28" source="18093" target="18099" />
+      <edge id="29" source="18093" target="18094" />
+      <edge id="30" source="18107" target="18108" />
+      <edge id="31" source="18107" target="18114" />
+      <edge id="32" source="18107" target="18121" />
+      <edge id="33" source="18126" target="18112" />
+      <edge id="34" source="18126" target="18118" />
+      <edge id="35" source="18129" target="18103" />
+      <edge id="36" source="18129" target="18109" />
+      <edge id="37" source="18129" target="18098" />
+      <edge id="38" source="18129" target="18122" />
+      <edge id="39" source="18119" target="18114" />
+      <edge id="40" source="18119" target="18105" />
+      <edge id="41" source="18119" target="18118" />
+      <edge id="42" source="18119" target="18127" />
+      <edge id="43" source="18100" target="18099" />
+      <edge id="44" source="18100" target="18094" />
+      <edge id="45" source="18100" target="18117" />
+      <edge id="46" source="18102" target="18124" />
+      <edge id="47" source="18102" target="18123" />
+      <edge id="48" source="18117" target="18112" />
+      <edge id="49" source="18105" target="18106" />
+      <edge id="50" source="18122" target="18123" />
+      <edge id="51" source="18106" target="18114" />
+      <edge id="52" source="18106" target="18118" />
+      <edge id="53" source="18106" target="18127" />
+      <edge id="54" source="18109" target="18123" />
+      <edge id="55" source="18127" target="18120" />
+      <edge id="56" source="18098" target="18103" />
+      <edge id="57" source="18128" target="18108" />
+      <edge id="58" source="18128" target="18121" />
+      <edge id="59" source="18094" target="18095" />
+      <edge id="60" source="18094" target="18104" />
+      <edge id="61" source="18120" target="18108" />
+      <edge id="62" source="18120" target="18121" />
+      <edge id="63" source="18121" target="18115" />
+      <edge id="64" source="18108" target="18115" />
+      <edge id="65" source="18095" target="18104" />
+      <edge id="66" source="18104" target="18112" />
+    </edges>
+  </graph>
+</gexf>

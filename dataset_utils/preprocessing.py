@@ -176,7 +176,7 @@ class GraphDataset():
                     if attri_name == 'degree':
                         continue
                     try:
-                        attri_value = graph.node[node][attri_name]
+                        attri_value = graph.nodes[node][attri_name]
                     except:
                         attri_value = 'None'
 

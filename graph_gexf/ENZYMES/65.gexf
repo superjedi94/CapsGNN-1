@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="2089" label="2089">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2076" label="2076">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2083" label="2083">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2072" label="2072">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2078" label="2078">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2067" label="2067">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2087" label="2087">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2082" label="2082">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2066" label="2066">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2086" label="2086">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2070" label="2070">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2077" label="2077">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2069" label="2069">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2075" label="2075">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2081" label="2081">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2079" label="2079">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2080" label="2080">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2074" label="2074">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2071" label="2071">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2084" label="2084">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2090" label="2090">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2088" label="2088">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2085" label="2085">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2068" label="2068">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2073" label="2073">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="2089" target="2090" />
+      <edge id="1" source="2089" target="2083" />
+      <edge id="2" source="2089" target="2074" />
+      <edge id="3" source="2089" target="2088" />
+      <edge id="4" source="2076" target="2077" />
+      <edge id="5" source="2076" target="2086" />
+      <edge id="6" source="2076" target="2087" />
+      <edge id="7" source="2083" target="2085" />
+      <edge id="8" source="2083" target="2088" />
+      <edge id="9" source="2083" target="2073" />
+      <edge id="10" source="2072" target="2082" />
+      <edge id="11" source="2072" target="2084" />
+      <edge id="12" source="2072" target="2071" />
+      <edge id="13" source="2078" target="2079" />
+      <edge id="14" source="2078" target="2066" />
+      <edge id="15" source="2078" target="2067" />
+      <edge id="16" source="2078" target="2080" />
+      <edge id="17" source="2067" target="2079" />
+      <edge id="18" source="2067" target="2066" />
+      <edge id="19" source="2067" target="2068" />
+      <edge id="20" source="2067" target="2080" />
+      <edge id="21" source="2087" target="2077" />
+      <edge id="22" source="2087" target="2086" />
+      <edge id="23" source="2087" target="2075" />
+      <edge id="24" source="2082" target="2070" />
+      <edge id="25" source="2082" target="2071" />
+      <edge id="26" source="2066" target="2079" />
+      <edge id="27" source="2086" target="2077" />
+      <edge id="28" source="2070" target="2069" />
+      <edge id="29" source="2070" target="2081" />
+      <edge id="30" source="2070" target="2071" />
+      <edge id="31" source="2069" target="2068" />
+      <edge id="32" source="2069" target="2081" />
+      <edge id="33" source="2075" target="2090" />
+      <edge id="34" source="2075" target="2074" />
+      <edge id="35" source="2081" target="2068" />
+      <edge id="36" source="2080" target="2068" />
+      <edge id="37" source="2074" target="2090" />
+      <edge id="38" source="2071" target="2084" />
+      <edge id="39" source="2084" target="2085" />
+      <edge id="40" source="2084" target="2073" />
+      <edge id="41" source="2088" target="2073" />
+      <edge id="42" source="2085" target="2073" />
+    </edges>
+  </graph>
+</gexf>

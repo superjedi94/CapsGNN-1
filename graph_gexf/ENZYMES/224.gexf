@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="7041" label="7041">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7053" label="7053">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7048" label="7048">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7040" label="7040">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7036" label="7036">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7038" label="7038">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7049" label="7049">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7043" label="7043">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7046" label="7046">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7045" label="7045">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7037" label="7037">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7039" label="7039">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7051" label="7051">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7042" label="7042">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7050" label="7050">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7052" label="7052">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7047" label="7047">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7044" label="7044">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="7041" target="7040" />
+      <edge id="1" source="7041" target="7039" />
+      <edge id="2" source="7041" target="7048" />
+      <edge id="3" source="7041" target="7043" />
+      <edge id="4" source="7041" target="7042" />
+      <edge id="5" source="7053" target="7045" />
+      <edge id="6" source="7053" target="7052" />
+      <edge id="7" source="7053" target="7047" />
+      <edge id="8" source="7053" target="7046" />
+      <edge id="9" source="7048" target="7040" />
+      <edge id="10" source="7048" target="7049" />
+      <edge id="11" source="7048" target="7051" />
+      <edge id="12" source="7048" target="7042" />
+      <edge id="13" source="7040" target="7039" />
+      <edge id="14" source="7040" target="7042" />
+      <edge id="15" source="7036" target="7050" />
+      <edge id="16" source="7036" target="7037" />
+      <edge id="17" source="7036" target="7038" />
+      <edge id="18" source="7038" target="7037" />
+      <edge id="19" source="7038" target="7039" />
+      <edge id="20" source="7038" target="7049" />
+      <edge id="21" source="7049" target="7039" />
+      <edge id="22" source="7049" target="7050" />
+      <edge id="23" source="7043" target="7044" />
+      <edge id="24" source="7043" target="7051" />
+      <edge id="25" source="7043" target="7042" />
+      <edge id="26" source="7046" target="7045" />
+      <edge id="27" source="7046" target="7052" />
+      <edge id="28" source="7046" target="7047" />
+      <edge id="29" source="7045" target="7044" />
+      <edge id="30" source="7045" target="7052" />
+      <edge id="31" source="7045" target="7047" />
+      <edge id="32" source="7037" target="7050" />
+      <edge id="33" source="7051" target="7044" />
+      <edge id="34" source="7051" target="7042" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,301 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="873" label="873">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="859" label="859">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="870" label="870">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="840" label="840">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="844" label="844">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="851" label="851">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="849" label="849">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="861" label="861">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="876" label="876">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="855" label="855">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="872" label="872">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="852" label="852">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="853" label="853">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="842" label="842">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="862" label="862">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="877" label="877">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="846" label="846">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="875" label="875">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="865" label="865">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="869" label="869">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="847" label="847">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="838" label="838">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="848" label="848">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="867" label="867">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="845" label="845">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="841" label="841">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="839" label="839">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="874" label="874">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="863" label="863">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="857" label="857">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="843" label="843">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="854" label="854">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="850" label="850">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="871" label="871">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="866" label="866">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="856" label="856">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="860" label="860">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="864" label="864">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="858" label="858">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="868" label="868">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="873" target="871" />
+      <edge id="1" source="873" target="874" />
+      <edge id="2" source="873" target="875" />
+      <edge id="3" source="859" target="842" />
+      <edge id="4" source="859" target="860" />
+      <edge id="5" source="859" target="843" />
+      <edge id="6" source="859" target="841" />
+      <edge id="7" source="859" target="858" />
+      <edge id="8" source="870" target="876" />
+      <edge id="9" source="870" target="877" />
+      <edge id="10" source="870" target="869" />
+      <edge id="11" source="840" target="842" />
+      <edge id="12" source="840" target="839" />
+      <edge id="13" source="840" target="841" />
+      <edge id="14" source="840" target="858" />
+      <edge id="15" source="844" target="842" />
+      <edge id="16" source="844" target="860" />
+      <edge id="17" source="844" target="843" />
+      <edge id="18" source="844" target="845" />
+      <edge id="19" source="851" target="849" />
+      <edge id="20" source="851" target="850" />
+      <edge id="21" source="851" target="852" />
+      <edge id="22" source="849" target="847" />
+      <edge id="23" source="849" target="864" />
+      <edge id="24" source="849" target="850" />
+      <edge id="25" source="849" target="848" />
+      <edge id="26" source="861" target="863" />
+      <edge id="27" source="861" target="845" />
+      <edge id="28" source="861" target="862" />
+      <edge id="29" source="861" target="860" />
+      <edge id="30" source="876" target="877" />
+      <edge id="31" source="876" target="872" />
+      <edge id="32" source="876" target="869" />
+      <edge id="33" source="855" target="856" />
+      <edge id="34" source="855" target="854" />
+      <edge id="35" source="855" target="871" />
+      <edge id="36" source="872" target="871" />
+      <edge id="37" source="872" target="877" />
+      <edge id="38" source="872" target="854" />
+      <edge id="39" source="852" target="850" />
+      <edge id="40" source="852" target="865" />
+      <edge id="41" source="853" target="867" />
+      <edge id="42" source="853" target="866" />
+      <edge id="43" source="853" target="865" />
+      <edge id="44" source="853" target="868" />
+      <edge id="45" source="842" target="843" />
+      <edge id="46" source="842" target="841" />
+      <edge id="47" source="862" target="860" />
+      <edge id="48" source="862" target="846" />
+      <edge id="49" source="862" target="863" />
+      <edge id="50" source="862" target="864" />
+      <edge id="51" source="877" target="869" />
+      <edge id="52" source="846" target="847" />
+      <edge id="53" source="846" target="845" />
+      <edge id="54" source="846" target="863" />
+      <edge id="55" source="846" target="848" />
+      <edge id="56" source="875" target="856" />
+      <edge id="57" source="875" target="871" />
+      <edge id="58" source="875" target="874" />
+      <edge id="59" source="865" target="867" />
+      <edge id="60" source="865" target="868" />
+      <edge id="61" source="869" target="866" />
+      <edge id="62" source="847" target="848" />
+      <edge id="63" source="847" target="845" />
+      <edge id="64" source="847" target="863" />
+      <edge id="65" source="838" target="857" />
+      <edge id="66" source="838" target="839" />
+      <edge id="67" source="838" target="858" />
+      <edge id="68" source="848" target="864" />
+      <edge id="69" source="867" target="866" />
+      <edge id="70" source="867" target="868" />
+      <edge id="71" source="845" target="860" />
+      <edge id="72" source="841" target="839" />
+      <edge id="73" source="841" target="843" />
+      <edge id="74" source="841" target="858" />
+      <edge id="75" source="839" target="858" />
+      <edge id="76" source="839" target="857" />
+      <edge id="77" source="874" target="871" />
+      <edge id="78" source="863" target="864" />
+      <edge id="79" source="857" target="858" />
+      <edge id="80" source="854" target="871" />
+      <edge id="81" source="854" target="856" />
+      <edge id="82" source="850" target="864" />
+      <edge id="83" source="871" target="856" />
+      <edge id="84" source="866" target="868" />
+    </edges>
+  </graph>
+</gexf>

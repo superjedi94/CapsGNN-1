@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="1921" label="1921">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1915" label="1915">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1918" label="1918">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1919" label="1919">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1913" label="1913">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1904" label="1904">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1916" label="1916">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1910" label="1910">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1917" label="1917">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1909" label="1909">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1912" label="1912">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1911" label="1911">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1914" label="1914">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1907" label="1907">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1908" label="1908">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1920" label="1920">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="1905" label="1905">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="1906" label="1906">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="1921" target="1920" />
+      <edge id="1" source="1921" target="1916" />
+      <edge id="2" source="1921" target="1910" />
+      <edge id="3" source="1921" target="1917" />
+      <edge id="4" source="1915" target="1918" />
+      <edge id="5" source="1915" target="1916" />
+      <edge id="6" source="1915" target="1914" />
+      <edge id="7" source="1915" target="1920" />
+      <edge id="8" source="1918" target="1909" />
+      <edge id="9" source="1918" target="1904" />
+      <edge id="10" source="1918" target="1919" />
+      <edge id="11" source="1918" target="1914" />
+      <edge id="12" source="1919" target="1904" />
+      <edge id="13" source="1919" target="1914" />
+      <edge id="14" source="1919" target="1920" />
+      <edge id="15" source="1913" target="1908" />
+      <edge id="16" source="1913" target="1912" />
+      <edge id="17" source="1913" target="1907" />
+      <edge id="18" source="1904" target="1914" />
+      <edge id="19" source="1916" target="1917" />
+      <edge id="20" source="1910" target="1909" />
+      <edge id="21" source="1910" target="1911" />
+      <edge id="22" source="1910" target="1906" />
+      <edge id="23" source="1917" target="1905" />
+      <edge id="24" source="1917" target="1920" />
+      <edge id="25" source="1909" target="1905" />
+      <edge id="26" source="1912" target="1908" />
+      <edge id="27" source="1912" target="1911" />
+      <edge id="28" source="1911" target="1905" />
+      <edge id="29" source="1907" target="1908" />
+      <edge id="30" source="1907" target="1906" />
+      <edge id="31" source="1905" target="1906" />
+    </edges>
+  </graph>
+</gexf>

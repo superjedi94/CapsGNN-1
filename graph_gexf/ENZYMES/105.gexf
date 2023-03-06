@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="3331" label="3331">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3342" label="3342">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3338" label="3338">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3340" label="3340">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3333" label="3333">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3334" label="3334">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3332" label="3332">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3339" label="3339">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3330" label="3330">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3336" label="3336">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3343" label="3343">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3335" label="3335">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3345" label="3345">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3346" label="3346">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3337" label="3337">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3341" label="3341">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3344" label="3344">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="3331" target="3346" />
+      <edge id="1" source="3331" target="3333" />
+      <edge id="2" source="3331" target="3332" />
+      <edge id="3" source="3331" target="3338" />
+      <edge id="4" source="3342" target="3336" />
+      <edge id="5" source="3342" target="3343" />
+      <edge id="6" source="3342" target="3344" />
+      <edge id="7" source="3338" target="3346" />
+      <edge id="8" source="3338" target="3336" />
+      <edge id="9" source="3338" target="3344" />
+      <edge id="10" source="3340" target="3334" />
+      <edge id="11" source="3340" target="3341" />
+      <edge id="12" source="3340" target="3335" />
+      <edge id="13" source="3340" target="3330" />
+      <edge id="14" source="3333" target="3346" />
+      <edge id="15" source="3333" target="3332" />
+      <edge id="16" source="3334" target="3341" />
+      <edge id="17" source="3334" target="3335" />
+      <edge id="18" source="3332" target="3346" />
+      <edge id="19" source="3339" target="3341" />
+      <edge id="20" source="3339" target="3345" />
+      <edge id="21" source="3339" target="3337" />
+      <edge id="22" source="3339" target="3330" />
+      <edge id="23" source="3330" target="3341" />
+      <edge id="24" source="3336" target="3344" />
+      <edge id="25" source="3343" target="3337" />
+      <edge id="26" source="3343" target="3345" />
+      <edge id="27" source="3335" target="3341" />
+      <edge id="28" source="3345" target="3337" />
+      <edge id="29" source="3346" target="3344" />
+    </edges>
+  </graph>
+</gexf>

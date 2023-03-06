@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="2193" label="2193">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2203" label="2203">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2187" label="2187">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2190" label="2190">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2206" label="2206">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2200" label="2200">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2208" label="2208">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2188" label="2188">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2213" label="2213">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2207" label="2207">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2199" label="2199">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2202" label="2202">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2205" label="2205">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2189" label="2189">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2192" label="2192">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2191" label="2191">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2209" label="2209">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2214" label="2214">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2198" label="2198">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2204" label="2204">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2196" label="2196">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2195" label="2195">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2197" label="2197">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2211" label="2211">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2210" label="2210">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2194" label="2194">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2212" label="2212">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2201" label="2201">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="2193" target="2208" />
+      <edge id="1" source="2193" target="2192" />
+      <edge id="2" source="2193" target="2211" />
+      <edge id="3" source="2203" target="2211" />
+      <edge id="4" source="2203" target="2204" />
+      <edge id="5" source="2203" target="2212" />
+      <edge id="6" source="2203" target="2194" />
+      <edge id="7" source="2203" target="2195" />
+      <edge id="8" source="2187" target="2188" />
+      <edge id="9" source="2187" target="2200" />
+      <edge id="10" source="2187" target="2201" />
+      <edge id="11" source="2190" target="2188" />
+      <edge id="12" source="2190" target="2189" />
+      <edge id="13" source="2190" target="2199" />
+      <edge id="14" source="2206" target="2208" />
+      <edge id="15" source="2206" target="2214" />
+      <edge id="16" source="2206" target="2192" />
+      <edge id="17" source="2206" target="2209" />
+      <edge id="18" source="2206" target="2213" />
+      <edge id="19" source="2200" target="2197" />
+      <edge id="20" source="2200" target="2198" />
+      <edge id="21" source="2200" target="2196" />
+      <edge id="22" source="2200" target="2201" />
+      <edge id="23" source="2208" target="2192" />
+      <edge id="24" source="2208" target="2209" />
+      <edge id="25" source="2208" target="2214" />
+      <edge id="26" source="2188" target="2189" />
+      <edge id="27" source="2188" target="2202" />
+      <edge id="28" source="2213" target="2191" />
+      <edge id="29" source="2213" target="2209" />
+      <edge id="30" source="2213" target="2214" />
+      <edge id="31" source="2207" target="2205" />
+      <edge id="32" source="2207" target="2210" />
+      <edge id="33" source="2207" target="2191" />
+      <edge id="34" source="2207" target="2199" />
+      <edge id="35" source="2199" target="2205" />
+      <edge id="36" source="2199" target="2189" />
+      <edge id="37" source="2199" target="2210" />
+      <edge id="38" source="2202" target="2189" />
+      <edge id="39" source="2202" target="2201" />
+      <edge id="40" source="2205" target="2210" />
+      <edge id="41" source="2191" target="2210" />
+      <edge id="42" source="2209" target="2214" />
+      <edge id="43" source="2198" target="2197" />
+      <edge id="44" source="2198" target="2196" />
+      <edge id="45" source="2198" target="2201" />
+      <edge id="46" source="2204" target="2211" />
+      <edge id="47" source="2204" target="2212" />
+      <edge id="48" source="2196" target="2197" />
+      <edge id="49" source="2195" target="2194" />
+      <edge id="50" source="2195" target="2212" />
+      <edge id="51" source="2197" target="2201" />
+      <edge id="52" source="2211" target="2212" />
+      <edge id="53" source="2194" target="2212" />
+    </edges>
+  </graph>
+</gexf>

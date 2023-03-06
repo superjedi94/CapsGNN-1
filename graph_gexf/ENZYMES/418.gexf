@@ -1,0 +1,202 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="13469" label="13469">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="13479" label="13479">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13474" label="13474">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13466" label="13466">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="13463" label="13463">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="13482" label="13482">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13477" label="13477">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13472" label="13472">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13485" label="13485">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13480" label="13480">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13487" label="13487">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13465" label="13465">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="13476" label="13476">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13486" label="13486">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13484" label="13484">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13464" label="13464">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="13461" label="13461">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="13462" label="13462">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="13468" label="13468">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="13481" label="13481">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13467" label="13467">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="13478" label="13478">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13475" label="13475">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13483" label="13483">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13473" label="13473">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="13470" label="13470">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="13471" label="13471">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="13469" target="13464" />
+      <edge id="1" source="13469" target="13483" />
+      <edge id="2" source="13469" target="13486" />
+      <edge id="3" source="13469" target="13470" />
+      <edge id="4" source="13479" target="13466" />
+      <edge id="5" source="13479" target="13487" />
+      <edge id="6" source="13479" target="13477" />
+      <edge id="7" source="13479" target="13465" />
+      <edge id="8" source="13479" target="13485" />
+      <edge id="9" source="13474" target="13473" />
+      <edge id="10" source="13474" target="13486" />
+      <edge id="11" source="13474" target="13478" />
+      <edge id="12" source="13474" target="13481" />
+      <edge id="13" source="13466" target="13464" />
+      <edge id="14" source="13466" target="13471" />
+      <edge id="15" source="13466" target="13465" />
+      <edge id="16" source="13466" target="13477" />
+      <edge id="17" source="13463" target="13464" />
+      <edge id="18" source="13463" target="13475" />
+      <edge id="19" source="13463" target="13465" />
+      <edge id="20" source="13463" target="13478" />
+      <edge id="21" source="13482" target="13473" />
+      <edge id="22" source="13482" target="13486" />
+      <edge id="23" source="13482" target="13478" />
+      <edge id="24" source="13482" target="13481" />
+      <edge id="25" source="13477" target="13487" />
+      <edge id="26" source="13472" target="13473" />
+      <edge id="27" source="13472" target="13462" />
+      <edge id="28" source="13472" target="13481" />
+      <edge id="29" source="13485" target="13471" />
+      <edge id="30" source="13485" target="13487" />
+      <edge id="31" source="13480" target="13473" />
+      <edge id="32" source="13480" target="13468" />
+      <edge id="33" source="13480" target="13481" />
+      <edge id="34" source="13487" target="13470" />
+      <edge id="35" source="13487" target="13471" />
+      <edge id="36" source="13465" target="13464" />
+      <edge id="37" source="13476" target="13464" />
+      <edge id="38" source="13476" target="13483" />
+      <edge id="39" source="13476" target="13475" />
+      <edge id="40" source="13484" target="13483" />
+      <edge id="41" source="13484" target="13470" />
+      <edge id="42" source="13484" target="13475" />
+      <edge id="43" source="13464" target="13470" />
+      <edge id="44" source="13464" target="13471" />
+      <edge id="45" source="13461" target="13462" />
+      <edge id="46" source="13461" target="13468" />
+      <edge id="47" source="13462" target="13467" />
+      <edge id="48" source="13468" target="13467" />
+      <edge id="49" source="13481" target="13473" />
+      <edge id="50" source="13470" target="13471" />
+    </edges>
+  </graph>
+</gexf>

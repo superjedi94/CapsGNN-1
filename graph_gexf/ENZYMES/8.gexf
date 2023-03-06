@@ -1,0 +1,170 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="278" label="278">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="286" label="286">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="271" label="271">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="280" label="280">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="293" label="293">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="281" label="281">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="276" label="276">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="284" label="284">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="273" label="273">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="288" label="288">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="289" label="289">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="272" label="272">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="285" label="285">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="291" label="291">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="282" label="282">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="275" label="275">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="287" label="287">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="292" label="292">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="277" label="277">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="279" label="279">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="274" label="274">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="283" label="283">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="290" label="290">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="278" target="293" />
+      <edge id="1" source="278" target="280" />
+      <edge id="2" source="278" target="277" />
+      <edge id="3" source="278" target="276" />
+      <edge id="4" source="278" target="279" />
+      <edge id="5" source="286" target="287" />
+      <edge id="6" source="286" target="285" />
+      <edge id="7" source="286" target="284" />
+      <edge id="8" source="271" target="272" />
+      <edge id="9" source="271" target="291" />
+      <edge id="10" source="271" target="288" />
+      <edge id="11" source="280" target="281" />
+      <edge id="12" source="280" target="279" />
+      <edge id="13" source="293" target="277" />
+      <edge id="14" source="293" target="276" />
+      <edge id="15" source="293" target="275" />
+      <edge id="16" source="281" target="282" />
+      <edge id="17" source="281" target="290" />
+      <edge id="18" source="281" target="279" />
+      <edge id="19" source="276" target="277" />
+      <edge id="20" source="284" target="287" />
+      <edge id="21" source="284" target="285" />
+      <edge id="22" source="284" target="283" />
+      <edge id="23" source="273" target="274" />
+      <edge id="24" source="273" target="292" />
+      <edge id="25" source="273" target="291" />
+      <edge id="26" source="288" target="272" />
+      <edge id="27" source="288" target="291" />
+      <edge id="28" source="289" target="282" />
+      <edge id="29" source="289" target="290" />
+      <edge id="30" source="289" target="283" />
+      <edge id="31" source="272" target="291" />
+      <edge id="32" source="285" target="287" />
+      <edge id="33" source="285" target="283" />
+      <edge id="34" source="282" target="290" />
+      <edge id="35" source="275" target="274" />
+      <edge id="36" source="275" target="292" />
+      <edge id="37" source="292" target="274" />
+      <edge id="38" source="277" target="279" />
+    </edges>
+  </graph>
+</gexf>

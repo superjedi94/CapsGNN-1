@@ -1,0 +1,210 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="2013" label="2013">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2020" label="2020">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2041" label="2041">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2031" label="2031">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2024" label="2024">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2014" label="2014">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2025" label="2025">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2021" label="2021">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2026" label="2026">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2032" label="2032">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2035" label="2035">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2040" label="2040">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2030" label="2030">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2017" label="2017">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2038" label="2038">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2015" label="2015">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2022" label="2022">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2023" label="2023">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2018" label="2018">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2028" label="2028">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2016" label="2016">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2036" label="2036">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2033" label="2033">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2019" label="2019">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="2034" label="2034">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2027" label="2027">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2037" label="2037">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2029" label="2029">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="2039" label="2039">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="2013" target="2026" />
+      <edge id="1" source="2013" target="2014" />
+      <edge id="2" source="2013" target="2027" />
+      <edge id="3" source="2020" target="2035" />
+      <edge id="4" source="2020" target="2033" />
+      <edge id="5" source="2020" target="2019" />
+      <edge id="6" source="2041" target="2038" />
+      <edge id="7" source="2041" target="2023" />
+      <edge id="8" source="2041" target="2040" />
+      <edge id="9" source="2031" target="2026" />
+      <edge id="10" source="2031" target="2032" />
+      <edge id="11" source="2031" target="2015" />
+      <edge id="12" source="2031" target="2030" />
+      <edge id="13" source="2024" target="2038" />
+      <edge id="14" source="2024" target="2037" />
+      <edge id="15" source="2024" target="2025" />
+      <edge id="16" source="2014" target="2026" />
+      <edge id="17" source="2014" target="2027" />
+      <edge id="18" source="2025" target="2038" />
+      <edge id="19" source="2025" target="2037" />
+      <edge id="20" source="2021" target="2022" />
+      <edge id="21" source="2021" target="2034" />
+      <edge id="22" source="2021" target="2036" />
+      <edge id="23" source="2026" target="2015" />
+      <edge id="24" source="2026" target="2027" />
+      <edge id="25" source="2026" target="2030" />
+      <edge id="26" source="2032" target="2028" />
+      <edge id="27" source="2032" target="2016" />
+      <edge id="28" source="2035" target="2033" />
+      <edge id="29" source="2035" target="2036" />
+      <edge id="30" source="2040" target="2022" />
+      <edge id="31" source="2040" target="2023" />
+      <edge id="32" source="2040" target="2039" />
+      <edge id="33" source="2030" target="2015" />
+      <edge id="34" source="2017" target="2029" />
+      <edge id="35" source="2017" target="2028" />
+      <edge id="36" source="2017" target="2016" />
+      <edge id="37" source="2038" target="2023" />
+      <edge id="38" source="2038" target="2037" />
+      <edge id="39" source="2022" target="2039" />
+      <edge id="40" source="2022" target="2034" />
+      <edge id="41" source="2018" target="2033" />
+      <edge id="42" source="2018" target="2029" />
+      <edge id="43" source="2018" target="2019" />
+      <edge id="44" source="2028" target="2016" />
+      <edge id="45" source="2036" target="2034" />
+      <edge id="46" source="2033" target="2019" />
+      <edge id="47" source="2019" target="2029" />
+      <edge id="48" source="2034" target="2039" />
+    </edges>
+  </graph>
+</gexf>

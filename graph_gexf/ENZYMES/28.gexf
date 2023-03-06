@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="955" label="955">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="952" label="952">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="950" label="950">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="944" label="944">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="958" label="958">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="956" label="956">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="940" label="940">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="945" label="945">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="947" label="947">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="942" label="942">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="954" label="954">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="949" label="949">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="957" label="957">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="943" label="943">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="946" label="946">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="938" label="938">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="959" label="959">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="939" label="939">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="948" label="948">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="951" label="951">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="941" label="941">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="953" label="953">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="955" target="939" />
+      <edge id="1" source="955" target="940" />
+      <edge id="2" source="955" target="956" />
+      <edge id="3" source="955" target="938" />
+      <edge id="4" source="952" target="954" />
+      <edge id="5" source="952" target="951" />
+      <edge id="6" source="952" target="953" />
+      <edge id="7" source="952" target="950" />
+      <edge id="8" source="950" target="949" />
+      <edge id="9" source="950" target="951" />
+      <edge id="10" source="950" target="959" />
+      <edge id="11" source="944" target="942" />
+      <edge id="12" source="944" target="943" />
+      <edge id="13" source="944" target="945" />
+      <edge id="14" source="944" target="946" />
+      <edge id="15" source="958" target="959" />
+      <edge id="16" source="958" target="947" />
+      <edge id="17" source="958" target="945" />
+      <edge id="18" source="958" target="946" />
+      <edge id="19" source="956" target="957" />
+      <edge id="20" source="956" target="939" />
+      <edge id="21" source="956" target="940" />
+      <edge id="22" source="940" target="939" />
+      <edge id="23" source="940" target="941" />
+      <edge id="24" source="940" target="938" />
+      <edge id="25" source="945" target="948" />
+      <edge id="26" source="945" target="946" />
+      <edge id="27" source="945" target="947" />
+      <edge id="28" source="945" target="943" />
+      <edge id="29" source="947" target="948" />
+      <edge id="30" source="947" target="946" />
+      <edge id="31" source="942" target="957" />
+      <edge id="32" source="942" target="943" />
+      <edge id="33" source="942" target="941" />
+      <edge id="34" source="954" target="951" />
+      <edge id="35" source="954" target="953" />
+      <edge id="36" source="949" target="959" />
+      <edge id="37" source="949" target="951" />
+      <edge id="38" source="949" target="948" />
+      <edge id="39" source="957" target="943" />
+      <edge id="40" source="957" target="941" />
+      <edge id="41" source="946" target="948" />
+      <edge id="42" source="938" target="939" />
+      <edge id="43" source="938" target="941" />
+      <edge id="44" source="959" target="948" />
+      <edge id="45" source="939" target="941" />
+      <edge id="46" source="951" target="953" />
+    </edges>
+  </graph>
+</gexf>

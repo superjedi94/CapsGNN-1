@@ -1,0 +1,506 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="16932" label="16932">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16916" label="16916">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16973" label="16973">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16957" label="16957">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16920" label="16920">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16905" label="16905">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16913" label="16913">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16939" label="16939">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16903" label="16903">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16917" label="16917">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16955" label="16955">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16968" label="16968">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16936" label="16936">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16944" label="16944">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16927" label="16927">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16945" label="16945">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16914" label="16914">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16947" label="16947">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16962" label="16962">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16965" label="16965">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16931" label="16931">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16910" label="16910">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16964" label="16964">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16958" label="16958">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16960" label="16960">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16937" label="16937">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16954" label="16954">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16912" label="16912">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16966" label="16966">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16904" label="16904">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16938" label="16938">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16941" label="16941">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16961" label="16961">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16949" label="16949">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16940" label="16940">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16923" label="16923">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16924" label="16924">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16906" label="16906">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16918" label="16918">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16928" label="16928">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16934" label="16934">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16943" label="16943">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16969" label="16969">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16950" label="16950">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16963" label="16963">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16971" label="16971">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16900" label="16900">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16953" label="16953">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16925" label="16925">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16926" label="16926">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16967" label="16967">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16946" label="16946">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16921" label="16921">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16972" label="16972">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16901" label="16901">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16952" label="16952">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16907" label="16907">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16942" label="16942">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16922" label="16922">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16929" label="16929">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16956" label="16956">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16909" label="16909">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16951" label="16951">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16970" label="16970">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16959" label="16959">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="16911" label="16911">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16908" label="16908">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16919" label="16919">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16935" label="16935">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16930" label="16930">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16933" label="16933">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16902" label="16902">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16915" label="16915">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="16948" label="16948">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="16932" target="16933" />
+      <edge id="1" source="16932" target="16931" />
+      <edge id="2" source="16932" target="16901" />
+      <edge id="3" source="16916" target="16918" />
+      <edge id="4" source="16916" target="16945" />
+      <edge id="5" source="16916" target="16903" />
+      <edge id="6" source="16916" target="16930" />
+      <edge id="7" source="16916" target="16917" />
+      <edge id="8" source="16916" target="16900" />
+      <edge id="9" source="16973" target="16940" />
+      <edge id="10" source="16973" target="16944" />
+      <edge id="11" source="16973" target="16948" />
+      <edge id="12" source="16973" target="16957" />
+      <edge id="13" source="16973" target="16920" />
+      <edge id="14" source="16920" target="16921" />
+      <edge id="15" source="16920" target="16936" />
+      <edge id="16" source="16920" target="16958" />
+      <edge id="17" source="16905" target="16948" />
+      <edge id="18" source="16905" target="16911" />
+      <edge id="19" source="16905" target="16949" />
+      <edge id="20" source="16913" target="16914" />
+      <edge id="21" source="16913" target="16912" />
+      <edge id="22" source="16913" target="16911" />
+      <edge id="23" source="16913" target="16929" />
+      <edge id="24" source="16939" target="16938" />
+      <edge id="25" source="16939" target="16929" />
+      <edge id="26" source="16939" target="16927" />
+      <edge id="27" source="16939" target="16963" />
+      <edge id="28" source="16903" target="16904" />
+      <edge id="29" source="16903" target="16934" />
+      <edge id="30" source="16903" target="16922" />
+      <edge id="31" source="16903" target="16921" />
+      <edge id="32" source="16903" target="16917" />
+      <edge id="33" source="16903" target="16902" />
+      <edge id="34" source="16917" target="16918" />
+      <edge id="35" source="16955" target="16954" />
+      <edge id="36" source="16968" target="16967" />
+      <edge id="37" source="16936" target="16937" />
+      <edge id="38" source="16936" target="16938" />
+      <edge id="39" source="16936" target="16962" />
+      <edge id="40" source="16944" target="16915" />
+      <edge id="41" source="16944" target="16956" />
+      <edge id="42" source="16927" target="16928" />
+      <edge id="43" source="16927" target="16926" />
+      <edge id="44" source="16927" target="16938" />
+      <edge id="45" source="16927" target="16935" />
+      <edge id="46" source="16945" target="16915" />
+      <edge id="47" source="16945" target="16925" />
+      <edge id="48" source="16945" target="16970" />
+      <edge id="49" source="16945" target="16958" />
+      <edge id="50" source="16914" target="16928" />
+      <edge id="51" source="16914" target="16954" />
+      <edge id="52" source="16947" target="16946" />
+      <edge id="53" source="16962" target="16935" />
+      <edge id="54" source="16965" target="16925" />
+      <edge id="55" source="16931" target="16910" />
+      <edge id="56" source="16931" target="16970" />
+      <edge id="57" source="16931" target="16902" />
+      <edge id="58" source="16910" target="16952" />
+      <edge id="59" source="16910" target="16901" />
+      <edge id="60" source="16910" target="16953" />
+      <edge id="61" source="16964" target="16963" />
+      <edge id="62" source="16958" target="16921" />
+      <edge id="63" source="16958" target="16941" />
+      <edge id="64" source="16958" target="16949" />
+      <edge id="65" source="16960" target="16959" />
+      <edge id="66" source="16937" target="16923" />
+      <edge id="67" source="16937" target="16938" />
+      <edge id="68" source="16912" target="16908" />
+      <edge id="69" source="16912" target="16928" />
+      <edge id="70" source="16912" target="16911" />
+      <edge id="71" source="16966" target="16925" />
+      <edge id="72" source="16966" target="16926" />
+      <edge id="73" source="16904" target="16918" />
+      <edge id="74" source="16904" target="16919" />
+      <edge id="75" source="16904" target="16942" />
+      <edge id="76" source="16938" target="16926" />
+      <edge id="77" source="16941" target="16906" />
+      <edge id="78" source="16941" target="16915" />
+      <edge id="79" source="16941" target="16925" />
+      <edge id="80" source="16941" target="16940" />
+      <edge id="81" source="16941" target="16970" />
+      <edge id="82" source="16941" target="16901" />
+      <edge id="83" source="16961" target="16935" />
+      <edge id="84" source="16949" target="16906" />
+      <edge id="85" source="16949" target="16970" />
+      <edge id="86" source="16940" target="16956" />
+      <edge id="87" source="16923" target="16921" />
+      <edge id="88" source="16923" target="16922" />
+      <edge id="89" source="16923" target="16924" />
+      <edge id="90" source="16924" target="16959" />
+      <edge id="91" source="16924" target="16922" />
+      <edge id="92" source="16906" target="16907" />
+      <edge id="93" source="16906" target="16915" />
+      <edge id="94" source="16918" target="16919" />
+      <edge id="95" source="16928" target="16926" />
+      <edge id="96" source="16928" target="16929" />
+      <edge id="97" source="16934" target="16933" />
+      <edge id="98" source="16934" target="16971" />
+      <edge id="99" source="16943" target="16942" />
+      <edge id="100" source="16969" target="16930" />
+      <edge id="101" source="16950" target="16951" />
+      <edge id="102" source="16950" target="16909" />
+      <edge id="103" source="16971" target="16972" />
+      <edge id="104" source="16900" target="16921" />
+      <edge id="105" source="16953" target="16911" />
+      <edge id="106" source="16926" target="16935" />
+      <edge id="107" source="16967" target="16929" />
+      <edge id="108" source="16946" target="16919" />
+      <edge id="109" source="16921" target="16930" />
+      <edge id="110" source="16921" target="16922" />
+      <edge id="111" source="16901" target="16902" />
+      <edge id="112" source="16907" target="16908" />
+      <edge id="113" source="16907" target="16911" />
+      <edge id="114" source="16956" target="16948" />
+      <edge id="115" source="16909" target="16908" />
+      <edge id="116" source="16970" target="16930" />
+      <edge id="117" source="16959" target="16919" />
+      <edge id="118" source="16911" target="16908" />
+      <edge id="119" source="16933" target="16902" />
+    </edges>
+  </graph>
+</gexf>

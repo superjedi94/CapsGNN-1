@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="4336" label="4336">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="4338" label="4338">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="4333" label="4333">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="4330" label="4330">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="4339" label="4339">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="4340" label="4340">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="4337" label="4337">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="4335" label="4335">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="4334" label="4334">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="4331" label="4331">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="4332" label="4332">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="4341" label="4341">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="4336" target="4340" />
+      <edge id="1" source="4336" target="4335" />
+      <edge id="2" source="4336" target="4341" />
+      <edge id="3" source="4338" target="4341" />
+      <edge id="4" source="4338" target="4333" />
+      <edge id="5" source="4338" target="4331" />
+      <edge id="6" source="4338" target="4339" />
+      <edge id="7" source="4338" target="4334" />
+      <edge id="8" source="4333" target="4331" />
+      <edge id="9" source="4333" target="4330" />
+      <edge id="10" source="4333" target="4334" />
+      <edge id="11" source="4333" target="4341" />
+      <edge id="12" source="4333" target="4339" />
+      <edge id="13" source="4330" target="4331" />
+      <edge id="14" source="4330" target="4341" />
+      <edge id="15" source="4339" target="4334" />
+      <edge id="16" source="4340" target="4335" />
+      <edge id="17" source="4340" target="4337" />
+      <edge id="18" source="4340" target="4332" />
+      <edge id="19" source="4337" target="4335" />
+      <edge id="20" source="4337" target="4332" />
+      <edge id="21" source="4335" target="4332" />
+      <edge id="22" source="4335" target="4341" />
+      <edge id="23" source="4334" target="4331" />
+    </edges>
+  </graph>
+</gexf>

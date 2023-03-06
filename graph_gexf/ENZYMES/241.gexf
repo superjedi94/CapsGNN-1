@@ -1,0 +1,237 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="7529" label="7529">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7518" label="7518">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7525" label="7525">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7515" label="7515">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7506" label="7506">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7535" label="7535">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7519" label="7519">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7513" label="7513">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7507" label="7507">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7522" label="7522">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7508" label="7508">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7514" label="7514">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7528" label="7528">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7527" label="7527">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7520" label="7520">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7521" label="7521">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7511" label="7511">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7530" label="7530">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7536" label="7536">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7512" label="7512">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7509" label="7509">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7523" label="7523">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7516" label="7516">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7531" label="7531">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7537" label="7537">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7517" label="7517">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7532" label="7532">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7510" label="7510">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7524" label="7524">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="7534" label="7534">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7533" label="7533">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="7526" label="7526">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="7529" target="7535" />
+      <edge id="1" source="7529" target="7528" />
+      <edge id="2" source="7529" target="7521" />
+      <edge id="3" source="7529" target="7534" />
+      <edge id="4" source="7518" target="7520" />
+      <edge id="5" source="7518" target="7519" />
+      <edge id="6" source="7518" target="7517" />
+      <edge id="7" source="7525" target="7536" />
+      <edge id="8" source="7525" target="7533" />
+      <edge id="9" source="7525" target="7523" />
+      <edge id="10" source="7525" target="7524" />
+      <edge id="11" source="7515" target="7514" />
+      <edge id="12" source="7515" target="7513" />
+      <edge id="13" source="7515" target="7516" />
+      <edge id="14" source="7515" target="7517" />
+      <edge id="15" source="7506" target="7507" />
+      <edge id="16" source="7506" target="7526" />
+      <edge id="17" source="7506" target="7527" />
+      <edge id="18" source="7535" target="7528" />
+      <edge id="19" source="7535" target="7522" />
+      <edge id="20" source="7535" target="7534" />
+      <edge id="21" source="7519" target="7520" />
+      <edge id="22" source="7519" target="7521" />
+      <edge id="23" source="7519" target="7517" />
+      <edge id="24" source="7513" target="7514" />
+      <edge id="25" source="7513" target="7531" />
+      <edge id="26" source="7513" target="7516" />
+      <edge id="27" source="7507" target="7527" />
+      <edge id="28" source="7507" target="7508" />
+      <edge id="29" source="7507" target="7530" />
+      <edge id="30" source="7522" target="7523" />
+      <edge id="31" source="7522" target="7528" />
+      <edge id="32" source="7522" target="7521" />
+      <edge id="33" source="7522" target="7524" />
+      <edge id="34" source="7508" target="7510" />
+      <edge id="35" source="7508" target="7509" />
+      <edge id="36" source="7508" target="7530" />
+      <edge id="37" source="7514" target="7531" />
+      <edge id="38" source="7514" target="7516" />
+      <edge id="39" source="7528" target="7534" />
+      <edge id="40" source="7527" target="7526" />
+      <edge id="41" source="7527" target="7530" />
+      <edge id="42" source="7520" target="7521" />
+      <edge id="43" source="7511" target="7510" />
+      <edge id="44" source="7511" target="7509" />
+      <edge id="45" source="7511" target="7512" />
+      <edge id="46" source="7530" target="7526" />
+      <edge id="47" source="7536" target="7532" />
+      <edge id="48" source="7536" target="7537" />
+      <edge id="49" source="7536" target="7533" />
+      <edge id="50" source="7512" target="7510" />
+      <edge id="51" source="7512" target="7509" />
+      <edge id="52" source="7512" target="7531" />
+      <edge id="53" source="7509" target="7510" />
+      <edge id="54" source="7523" target="7524" />
+      <edge id="55" source="7516" target="7517" />
+      <edge id="56" source="7531" target="7510" />
+      <edge id="57" source="7537" target="7532" />
+      <edge id="58" source="7537" target="7533" />
+      <edge id="59" source="7532" target="7533" />
+      <edge id="60" source="7524" target="7533" />
+    </edges>
+  </graph>
+</gexf>

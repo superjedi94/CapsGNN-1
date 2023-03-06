@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="10970" label="10970">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="10960" label="10960">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="10963" label="10963">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="10966" label="10966">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="10968" label="10968">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="10961" label="10961">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="10964" label="10964">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="10967" label="10967">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="10965" label="10965">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="10971" label="10971">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="10962" label="10962">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="10969" label="10969">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="10970" target="10966" />
+      <edge id="1" source="10970" target="10965" />
+      <edge id="2" source="10970" target="10971" />
+      <edge id="3" source="10960" target="10968" />
+      <edge id="4" source="10960" target="10961" />
+      <edge id="5" source="10960" target="10963" />
+      <edge id="6" source="10963" target="10964" />
+      <edge id="7" source="10963" target="10969" />
+      <edge id="8" source="10963" target="10962" />
+      <edge id="9" source="10963" target="10968" />
+      <edge id="10" source="10963" target="10961" />
+      <edge id="11" source="10966" target="10967" />
+      <edge id="12" source="10966" target="10965" />
+      <edge id="13" source="10966" target="10971" />
+      <edge id="14" source="10968" target="10964" />
+      <edge id="15" source="10968" target="10969" />
+      <edge id="16" source="10961" target="10962" />
+      <edge id="17" source="10964" target="10969" />
+      <edge id="18" source="10967" target="10962" />
+      <edge id="19" source="10967" target="10965" />
+      <edge id="20" source="10967" target="10971" />
+      <edge id="21" source="10965" target="10971" />
+    </edges>
+  </graph>
+</gexf>

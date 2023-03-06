@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="921" label="921">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="917" label="917">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="916" label="916">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="935" label="935">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="924" label="924">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="936" label="936">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="926" label="926">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="934" label="934">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="927" label="927">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="931" label="931">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="937" label="937">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="933" label="933">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="918" label="918">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="915" label="915">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="929" label="929">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="922" label="922">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="930" label="930">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="928" label="928">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="923" label="923">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="919" label="919">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="920" label="920">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="932" label="932">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="925" label="925">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="921" target="920" />
+      <edge id="1" source="921" target="922" />
+      <edge id="2" source="921" target="923" />
+      <edge id="3" source="921" target="919" />
+      <edge id="4" source="917" target="915" />
+      <edge id="5" source="917" target="933" />
+      <edge id="6" source="917" target="918" />
+      <edge id="7" source="917" target="934" />
+      <edge id="8" source="917" target="916" />
+      <edge id="9" source="916" target="915" />
+      <edge id="10" source="916" target="933" />
+      <edge id="11" source="916" target="934" />
+      <edge id="12" source="916" target="918" />
+      <edge id="13" source="935" target="920" />
+      <edge id="14" source="935" target="919" />
+      <edge id="15" source="935" target="934" />
+      <edge id="16" source="935" target="924" />
+      <edge id="17" source="935" target="918" />
+      <edge id="18" source="924" target="937" />
+      <edge id="19" source="924" target="923" />
+      <edge id="20" source="924" target="936" />
+      <edge id="21" source="936" target="937" />
+      <edge id="22" source="936" target="923" />
+      <edge id="23" source="936" target="925" />
+      <edge id="24" source="926" target="937" />
+      <edge id="25" source="926" target="922" />
+      <edge id="26" source="926" target="923" />
+      <edge id="27" source="926" target="927" />
+      <edge id="28" source="926" target="925" />
+      <edge id="29" source="934" target="933" />
+      <edge id="30" source="927" target="928" />
+      <edge id="31" source="927" target="929" />
+      <edge id="32" source="927" target="937" />
+      <edge id="33" source="931" target="929" />
+      <edge id="34" source="931" target="932" />
+      <edge id="35" source="931" target="930" />
+      <edge id="36" source="933" target="915" />
+      <edge id="37" source="918" target="915" />
+      <edge id="38" source="918" target="919" />
+      <edge id="39" source="929" target="932" />
+      <edge id="40" source="929" target="930" />
+      <edge id="41" source="929" target="928" />
+      <edge id="42" source="922" target="920" />
+      <edge id="43" source="922" target="923" />
+      <edge id="44" source="922" target="925" />
+      <edge id="45" source="930" target="932" />
+      <edge id="46" source="930" target="928" />
+      <edge id="47" source="923" target="925" />
+      <edge id="48" source="919" target="920" />
+    </edges>
+  </graph>
+</gexf>

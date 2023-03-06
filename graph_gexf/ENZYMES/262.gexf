@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="8083" label="8083">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8092" label="8092">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="8073" label="8073">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8087" label="8087">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8094" label="8094">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="8096" label="8096">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="8075" label="8075">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8074" label="8074">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8089" label="8089">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8081" label="8081">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8082" label="8082">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8070" label="8070">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8071" label="8071">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8093" label="8093">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="8080" label="8080">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8077" label="8077">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8090" label="8090">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="8085" label="8085">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8079" label="8079">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8091" label="8091">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="8076" label="8076">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8084" label="8084">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8086" label="8086">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8072" label="8072">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8078" label="8078">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="8095" label="8095">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="8088" label="8088">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="8083" target="8092" />
+      <edge id="1" source="8083" target="8081" />
+      <edge id="2" source="8083" target="8084" />
+      <edge id="3" source="8083" target="8082" />
+      <edge id="4" source="8083" target="8093" />
+      <edge id="5" source="8092" target="8094" />
+      <edge id="6" source="8092" target="8095" />
+      <edge id="7" source="8092" target="8082" />
+      <edge id="8" source="8092" target="8093" />
+      <edge id="9" source="8073" target="8071" />
+      <edge id="10" source="8073" target="8075" />
+      <edge id="11" source="8073" target="8074" />
+      <edge id="12" source="8073" target="8077" />
+      <edge id="13" source="8073" target="8072" />
+      <edge id="14" source="8073" target="8070" />
+      <edge id="15" source="8087" target="8086" />
+      <edge id="16" source="8087" target="8088" />
+      <edge id="17" source="8087" target="8089" />
+      <edge id="18" source="8087" target="8085" />
+      <edge id="19" source="8094" target="8096" />
+      <edge id="20" source="8094" target="8091" />
+      <edge id="21" source="8094" target="8084" />
+      <edge id="22" source="8094" target="8095" />
+      <edge id="23" source="8094" target="8093" />
+      <edge id="24" source="8096" target="8091" />
+      <edge id="25" source="8096" target="8095" />
+      <edge id="26" source="8096" target="8093" />
+      <edge id="27" source="8096" target="8085" />
+      <edge id="28" source="8075" target="8078" />
+      <edge id="29" source="8075" target="8076" />
+      <edge id="30" source="8075" target="8074" />
+      <edge id="31" source="8074" target="8076" />
+      <edge id="32" source="8074" target="8077" />
+      <edge id="33" source="8089" target="8086" />
+      <edge id="34" source="8089" target="8091" />
+      <edge id="35" source="8089" target="8088" />
+      <edge id="36" source="8081" target="8079" />
+      <edge id="37" source="8081" target="8080" />
+      <edge id="38" source="8081" target="8082" />
+      <edge id="39" source="8082" target="8080" />
+      <edge id="40" source="8082" target="8084" />
+      <edge id="41" source="8070" target="8071" />
+      <edge id="42" source="8070" target="8090" />
+      <edge id="43" source="8070" target="8072" />
+      <edge id="44" source="8071" target="8090" />
+      <edge id="45" source="8071" target="8072" />
+      <edge id="46" source="8093" target="8084" />
+      <edge id="47" source="8093" target="8095" />
+      <edge id="48" source="8080" target="8079" />
+      <edge id="49" source="8077" target="8078" />
+      <edge id="50" source="8077" target="8076" />
+      <edge id="51" source="8090" target="8072" />
+      <edge id="52" source="8085" target="8086" />
+      <edge id="53" source="8085" target="8084" />
+      <edge id="54" source="8085" target="8088" />
+      <edge id="55" source="8079" target="8078" />
+      <edge id="56" source="8091" target="8095" />
+      <edge id="57" source="8091" target="8088" />
+      <edge id="58" source="8076" target="8078" />
+      <edge id="59" source="8086" target="8088" />
+    </edges>
+  </graph>
+</gexf>

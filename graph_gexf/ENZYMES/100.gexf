@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="Label" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.2</creator>
+      <lastmodified>22/03/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="3148" label="3148">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3127" label="3127">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3160" label="3160">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3159" label="3159">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3144" label="3144">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3156" label="3156">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3137" label="3137">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3151" label="3151">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3142" label="3142">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3161" label="3161">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3129" label="3129">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3152" label="3152">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3153" label="3153">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3134" label="3134">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3150" label="3150">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3130" label="3130">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3158" label="3158">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3120" label="3120">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3147" label="3147">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3145" label="3145">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3135" label="3135">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3123" label="3123">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3163" label="3163">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3126" label="3126">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3155" label="3155">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3146" label="3146">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3132" label="3132">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3125" label="3125">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3140" label="3140">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3162" label="3162">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3139" label="3139">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3133" label="3133">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3128" label="3128">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3131" label="3131">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3122" label="3122">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3124" label="3124">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3138" label="3138">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3121" label="3121">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3143" label="3143">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3136" label="3136">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3149" label="3149">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3157" label="3157">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3119" label="3119">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="3154" label="3154">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </node>
+      <node id="3141" label="3141">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="3148" target="3120" />
+      <edge id="1" source="3148" target="3134" />
+      <edge id="2" source="3148" target="3135" />
+      <edge id="3" source="3148" target="3119" />
+      <edge id="4" source="3127" target="3152" />
+      <edge id="5" source="3127" target="3142" />
+      <edge id="6" source="3127" target="3128" />
+      <edge id="7" source="3160" target="3140" />
+      <edge id="8" source="3160" target="3128" />
+      <edge id="9" source="3160" target="3141" />
+      <edge id="10" source="3160" target="3126" />
+      <edge id="11" source="3159" target="3129" />
+      <edge id="12" source="3159" target="3143" />
+      <edge id="13" source="3159" target="3130" />
+      <edge id="14" source="3159" target="3142" />
+      <edge id="15" source="3159" target="3128" />
+      <edge id="16" source="3144" target="3158" />
+      <edge id="17" source="3144" target="3143" />
+      <edge id="18" source="3144" target="3145" />
+      <edge id="19" source="3156" target="3134" />
+      <edge id="20" source="3156" target="3135" />
+      <edge id="21" source="3156" target="3119" />
+      <edge id="22" source="3137" target="3163" />
+      <edge id="23" source="3137" target="3154" />
+      <edge id="24" source="3137" target="3162" />
+      <edge id="25" source="3151" target="3129" />
+      <edge id="26" source="3151" target="3143" />
+      <edge id="27" source="3151" target="3130" />
+      <edge id="28" source="3151" target="3128" />
+      <edge id="29" source="3142" target="3141" />
+      <edge id="30" source="3161" target="3124" />
+      <edge id="31" source="3161" target="3139" />
+      <edge id="32" source="3161" target="3140" />
+      <edge id="33" source="3129" target="3130" />
+      <edge id="34" source="3152" target="3128" />
+      <edge id="35" source="3152" target="3126" />
+      <edge id="36" source="3153" target="3124" />
+      <edge id="37" source="3153" target="3125" />
+      <edge id="38" source="3153" target="3139" />
+      <edge id="39" source="3153" target="3126" />
+      <edge id="40" source="3134" target="3135" />
+      <edge id="41" source="3150" target="3131" />
+      <edge id="42" source="3150" target="3145" />
+      <edge id="43" source="3150" target="3130" />
+      <edge id="44" source="3130" target="3158" />
+      <edge id="45" source="3158" target="3131" />
+      <edge id="46" source="3158" target="3145" />
+      <edge id="47" source="3120" target="3121" />
+      <edge id="48" source="3120" target="3136" />
+      <edge id="49" source="3120" target="3119" />
+      <edge id="50" source="3147" target="3149" />
+      <edge id="51" source="3147" target="3146" />
+      <edge id="52" source="3147" target="3157" />
+      <edge id="53" source="3145" target="3149" />
+      <edge id="54" source="3145" target="3157" />
+      <edge id="55" source="3145" target="3143" />
+      <edge id="56" source="3145" target="3146" />
+      <edge id="57" source="3135" target="3121" />
+      <edge id="58" source="3135" target="3136" />
+      <edge id="59" source="3123" target="3124" />
+      <edge id="60" source="3123" target="3139" />
+      <edge id="61" source="3123" target="3154" />
+      <edge id="62" source="3163" target="3121" />
+      <edge id="63" source="3163" target="3136" />
+      <edge id="64" source="3163" target="3155" />
+      <edge id="65" source="3126" target="3125" />
+      <edge id="66" source="3155" target="3121" />
+      <edge id="67" source="3155" target="3122" />
+      <edge id="68" source="3155" target="3136" />
+      <edge id="69" source="3146" target="3149" />
+      <edge id="70" source="3146" target="3157" />
+      <edge id="71" source="3132" target="3131" />
+      <edge id="72" source="3132" target="3149" />
+      <edge id="73" source="3132" target="3157" />
+      <edge id="74" source="3132" target="3133" />
+      <edge id="75" source="3125" target="3140" />
+      <edge id="76" source="3125" target="3138" />
+      <edge id="77" source="3140" target="3139" />
+      <edge id="78" source="3162" target="3122" />
+      <edge id="79" source="3162" target="3138" />
+      <edge id="80" source="3139" target="3124" />
+      <edge id="81" source="3139" target="3138" />
+      <edge id="82" source="3133" target="3149" />
+      <edge id="83" source="3133" target="3157" />
+      <edge id="84" source="3128" target="3141" />
+      <edge id="85" source="3131" target="3149" />
+      <edge id="86" source="3122" target="3154" />
+      <edge id="87" source="3124" target="3138" />
+    </edges>
+  </graph>
+</gexf>
